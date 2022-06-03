@@ -1,0 +1,13 @@
+Git e GitHub
+
+Alguns passos para criar um repositório no github
+
+git clone - você clona um projeto do GitHub para a sua máquina
+
+git add - Para adicionar um projeto local (projeto chegando ao local)
+
+git status - Para ver o status dos seus projetos (vendo onde está o projeto)
+
+git commit - Para subir o projeto (projeto atrás do palco)
+
+git push origin - você subir o projeto do stage(atrás do palco) para o GitHub (projeto no palco)
